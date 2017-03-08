@@ -12,7 +12,9 @@ Cada usuario del Odoo SaaS debe poder cambiar la apariencia del ecommerce propio
 
 revisar la variante de Daniel y actualizarla.
 
-O evaluar alguna variante alternativa.  
+O evaluar alguna variante alternativa. 
+
+Esto incluye comprar el certificado wild card para soportar multiples dominios.
 
 ### 3. Posibilidad de asociar un metodo de pago con los tenants.
 
