@@ -1,3 +1,4 @@
+# backlog
 
 ### 6. Crear en el tenant central Market B2C.
 
@@ -34,3 +35,6 @@ Las funcionalidades deden incluir:
 
 Basado en el repo [odoo-saas-tool](https://github.com/it-projects-llc/odoo-saas-tools)
  
+# done
+
+[pasar para aca las tareas que vayan quedando listas]
