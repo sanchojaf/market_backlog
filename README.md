@@ -1,5 +1,5 @@
 
-### 6. Crear en el tenant centrar market b2c.
+### 6. Crear en el tenant central Market B2C.
 
 Habilitar en el tenant central el Ecommerce, de modo que si un usuario desde su tenant, pueda habilitar que uno de sus productos sea visible en el Ecommerce del tenant central. 
 
